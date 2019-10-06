@@ -1,0 +1,34 @@
+Introduction
+- Introduction
+- Context
+- Queries - DevOps - awareness is very low
+- Coverage
+- One - on - One
+
+
+- Name, company, no. years
+  why DevOps
+
+Namrata - Accenture, 3.3 years, new technology
+Varsha - CTS, 5 years, Automation(mobile), new technology and switch job
+Shubham - Sarvatra, 3.3 years, curious
+Aniket - Barclays 8 years, prod support, legacy - AWS, Java, DevOps
+Dhiraj - Ivavsys, 2.3 years, switch job in DevOps
+Rahul - Ivavsys, 3.5 years, career growth
+Raju - NSE, DevOps switch
+Sai - Barclays, 4.5 years, QA, demand in current role
+Bramhanand - A4 tech, 6 years, SDET, learn more DevOps
+Tapan - Dassault, 3.5 years, getting deep into DevOps
+Kunal- 3DPLM, 10 years, DevOps
+
+Ketan
+-24
+- 16 yrs Infosys
+- 5 training and consulting (automation, DevOps)
+- 
+
+
+
+
+
+
